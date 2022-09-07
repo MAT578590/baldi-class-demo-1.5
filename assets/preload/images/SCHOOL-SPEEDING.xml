@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SCHOOL-SPEEDING.png"><SubTexture name="SCHOOL-SPEEDING bang0000" x="0" y="0" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0001" x="1366" y="0" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0002" x="0" y="768" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0003" x="1366" y="768" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0004" x="0" y="1536" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0005" x="1366" y="1536" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0006" x="2732" y="0" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0007" x="2732" y="768" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0008" x="2732" y="1536" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0009" x="0" y="2304" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0010" x="1366" y="2304" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING bang0011" x="2732" y="2304" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING idle0000" x="0" y="3072" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+<SubTexture name="SCHOOL-SPEEDING idle0001" x="1366" y="3072" width="1366" height="768" frameX="0" frameY="0" frameWidth="1366" frameHeight="768" />
+</TextureAtlas>

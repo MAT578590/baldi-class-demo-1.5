@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="school_2d.png"><SubTexture name="school_2d idle0000" x="0" y="0" width="2655" height="1362" frameX="0" frameY="0" frameWidth="2655" frameHeight="1362" />
+<SubTexture name="school_2d idle0001" x="2655" y="0" width="2655" height="1362" frameX="0" frameY="0" frameWidth="2655" frameHeight="1362" />
+</TextureAtlas>

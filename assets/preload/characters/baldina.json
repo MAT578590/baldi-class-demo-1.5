@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "BALDINA RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "BALDINA LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "BALDINA UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "BALDINA DOWN0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"fps": 4,
+			"name": "BALDINA TALK0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BALDINA idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/baldina",
+	"position": [
+		-160,
+		-90
+	],
+	"healthicon": "baldina1",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		255,
+		40
+	],
+	"camera_position": [
+		-170,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

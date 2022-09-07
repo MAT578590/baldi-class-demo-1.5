@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BALDI idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BALDI RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BALDI DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BALDI UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BALDI LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "wave",
+			"fps": 41,
+			"name": "BALDI wave",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/baldi",
+	"position": [
+		190,
+		350
+	],
+	"healthicon": "baldi1",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-290,
+		-300
+	],
+	"sing_duration": 5.2,
+	"scale": 4
+}

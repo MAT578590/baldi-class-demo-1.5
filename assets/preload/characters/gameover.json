@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "GAMEOVER-BALDI Fidget",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-308,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "GAMEOVER-BALDI idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GAMEOVER-BALDI",
+	"position": [
+		-770,
+		-640
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.65
+}

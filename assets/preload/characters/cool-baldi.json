@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "COOL BALDI idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "COOL BALDI RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "COOL BALDI DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "COOL BALDI UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "COOL BALDI LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "wave",
+			"fps": 31,
+			"name": "COOL BALDI WAVE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "COOL BALDI Good",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "COOL BALDI Youre",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/COOl-BALDI",
+	"position": [
+		190,
+		350
+	],
+	"healthicon": "BALDI-COOL",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		180
+	],
+	"camera_position": [
+		-290,
+		-300
+	],
+	"sing_duration": 5.2,
+	"scale": 4
+}

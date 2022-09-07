@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "angry",
+			"fps": 12,
+			"name": "YCTP BALDI angry",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "YCTP BALDI idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "YCTP BALDI RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "YCTP BALDI LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "YCTP BALDI DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "YCTP BALDI UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 57,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "YCTP-BALDI TALK"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/yctp-baldi",
+	"position": [
+		-655,
+		350
+	],
+	"healthicon": "baldi1",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		80,
+		70
+	],
+	"sing_duration": 2.6,
+	"scale": 0.65
+}

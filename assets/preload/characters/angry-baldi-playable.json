@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BALDI MAD idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BALDI MAD RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BALDI MAD DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BALDI MAD UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BALDI MAD LEFT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BALDI-MAD2",
+	"position": [
+		170,
+		310
+	],
+	"healthicon": "baldi2",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		240,
+		-300
+	],
+	"sing_duration": 5.2,
+	"scale": 4
+}

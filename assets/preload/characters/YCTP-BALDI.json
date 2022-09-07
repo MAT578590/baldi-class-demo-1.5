@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "YCTP idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "YCTP RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "YCTP LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "YCTP DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "YCTP UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "angry",
+			"indices": [],
+			"name": "YCTP angry"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/yctp",
+	"position": [
+		-530,
+		-130
+	],
+	"healthicon": "baldi1",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-490,
+		-220
+	],
+	"sing_duration": 2.6,
+	"scale": 2
+}
